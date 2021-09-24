@@ -5,7 +5,10 @@ Projet N°9
 Projet réalisé dans la formation The Complete Javascript Course 2021 : From Zero to Expert de Jonas Schmedtmann
 
 
-L'organigramme est disponible avec les fichiers de l'application web
+L'organigramme de l'application est disponible ci-dessous :
+
+
+![Bankist-flowchart](https://user-images.githubusercontent.com/90900880/134647016-2a1f26bf-1ef8-4d3c-b49f-71f703415755.png)
 
 
 
